@@ -1,2 +1,2 @@
 # RegEx-ipynb
-- Jupyter Notebooks (Python) during training and internship program offered by RegEX Software Services.
+- Jupyter Notebooks (Python - ipynb) during training and internship program offered by RegEX Software Services.
